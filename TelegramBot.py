@@ -36,7 +36,7 @@ def responder(mensagem):
     texto = """
     Olá, sou o bot do Yanky, para continuar, escolha, clicando, em uma das 3 opções:
 /op1 Mandar um abraço pro Yanky.
-/op2 Saber mais sobre o bot.  
+/op2 Saber mais sobre o criador.  
 /op3 Saber onde o dono do bot nasceu. 
     """
 
