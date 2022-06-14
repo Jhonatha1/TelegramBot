@@ -1,3 +1,2 @@
 # TelegramBot
-Bot feito em python para Telegram, só para mostrar algumas informações sobre mim e uma breve diversão.
-Para mandar mensagem é so procurar o @Yankylindobot no Telegram e dar start em uma conversa, porém somente quando em Host.
+Bot made in python for Telegram, just to show you some information about me and a little fun. To send a message, just look for @Yankylindobot on Telegram and start a conversation, but only when in Host.
